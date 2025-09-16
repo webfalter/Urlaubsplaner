@@ -1,5 +1,6 @@
 # Urlaubsplaner
-<img src="icons/urlaubsplaner.icns" alt="Urlaubsplaner App" />
+
+![Urlaubsplaner](icons/urlaubsplaner.icns)
 
 Übersicht über die Jahresplanung vom Urlaub in einem Team. Gleichzeitig können auch andere Ereignisse wie Krank, Freizeitausgleich etc veraltet werden.
 
